@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "name": "vikas",
+      "age": "23",
+      "place": "satna",
+      "batch_name": "FTWEB22",
+      "profession": "FSD",
+      "id": 1
+    },
+    {
+      "name": "rahul",
+      "age": "27",
+      "place": "sarni",
+      "batch_name": "FTWEB23",
+      "profession": "Frontend",
+      "id": 2
+    }
+  ]
+}
